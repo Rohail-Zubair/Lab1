@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello from Main!
-=======
-Hello from Branch!
->>>>>>> conflict
+Hello from Main! Hello from Branch!
+
